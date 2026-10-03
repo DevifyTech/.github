@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Replace "banner.png" with the link to your actual logo or banner once you upload it to the repository -->
-<img src="banner.png" alt="Devify Tech Banner" width="100%" />
+<img src="og-image.png" alt="Devify Tech Banner" width="25%" />
 
-<br><br>
+<br>
 
 **A premium software house engineered for scale, speed, and autonomy.** <br>
 We partner with ambitious enterprises to architect bespoke web systems, cross-platform applications, and AI-native infrastructure.
