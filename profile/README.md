@@ -12,6 +12,7 @@ We partner with ambitious enterprises to architect bespoke web systems, cross-pl
 
 <a href="https://devifytech.com" target="_blank"><img src="https://img.shields.io/badge/Production_Flagship-devifytech.com-09090b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181b" alt="Website"></a>
 <a href="mailto:devifytech.info@gmail.com"><img src="https://img.shields.io/badge/Executive_Inquiries-devifytech.info@gmail.com-09090b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b" alt="Email"></a>
+<a href="https://linkedin.com/company/devify-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Devify_Tech-09090b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/Global_HQ-Lahore,_Pakistan-09090b?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=18181b" alt="Location">
 
 <br><br>
